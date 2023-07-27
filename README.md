@@ -7,6 +7,13 @@
 
 ## Llama系列
 
+Meta公司，原名Facebook，分布的。2023-07-19，发布免费可商用的Llama2。
+
+1. Llama2-70B
+2. Llama2-13B
+3. Llama2-7B
+4. Llama 1
+
 ## Claude系列
 
 Anthropic公司研制的
@@ -33,7 +40,28 @@ LLM模型被设计来解决各种任务。LLM评测数据集，用于测试和�
 评测基准：
 1. chatbot arena，大模型竞技平台，伯克利大学，评测平台：https://lmsys.org/
 评测榜单：https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
-4. 
+2. MT-Bench，主要评估多轮问答的能力。
+3. HELM
+4. Big-Bench
+5. MME
+6. KoLA
+7. DynaBench
+8. MMLU
+9. GLUE-X，旨在评估NLP模型在OOD场景下的robustness。
+10. PromptBench，用于增强LLM微调的方法。
+11. PandaLM
+
+## 针对特定的下游任务的
+
+1. MultiMedQA
+2. C-Eval
+3. M3Exam
+4. GAOKAO_Bench
+5. SOCKET
+6. MATH
+7. APPS
+8. CUAD
+9. CVALUES
 
 # 三、LLM评估
 
