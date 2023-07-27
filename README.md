@@ -91,9 +91,48 @@ Social knowledge understanding
 
 对于社交知识理解，有人发现一个经有监督的精调的小模型，比如BERT，效果会明显好于zero-shot的LLM，比如GPT、GPT-J-6B。
 
-
 ### 3.1.2 Reasoning
+
+推理任务，是AI的一个大的挑战，模型不仅要理解输入的文本，还要去推导最终的答案，因为答案没法一下子给出来。
+
+mathematical reasoning
+
+ChatGPT在数学推理上有不错的表现，在很多任务上都超过了GPT-3.5。但是要做到精通，仍需要继续优化。
+
+symbolic reasoning
+
+在符号推理任务上，ChatGPT的表现比GPT-3.5要差，因为ChatGPT倾向于不确定的回答，导致效果较差。
+
+commonsense reasoning
+
+ChatGPT不太擅长常识推理，但比non-text情感推理要好。
+
+logical reasoning
+
+在逻辑推理上，ChatGPT和GPT-3.5都优于传统的模型。然而，两者都面临OOD问题，ChatGPT表现的比GPT-3.5、BARD等要差。因为ChatGPT是设计用来精确、理性聊天的。
+
+spatial reasoning
+
+ChatGPT不擅长空间推理。
+
+temporal reasoning
+
+ChatGPT擅长时间推理。Llama-65B，在date推理上是开源LLM中robust最好的，逼近code-davinci-002。
+
+multi-hop reasoning
+
+与其他LLM一样，ChatGPT不擅长多跳推理。
+
+domain-specific reasoning
+
+zero-shot的InstructGPT和Codex可以处理复杂的医学推理任务，但仍然有很大的提升空间。
+
 ### 3.1.3 Natural language generation
+
+summarization
+
+question answering
+
 ### 3.1.4 Multilingual tasks
 ### 3.1.5 Factuality
 
