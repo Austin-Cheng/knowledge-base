@@ -73,3 +73,5 @@ LLM模型被设计来解决各种任务。LLM评测数据集，用于测试和�
 # 五、行业
 
 # 六、资料
+
+1. 如何评测大模型：https://github.com/MLGroupJLU/LLM-eval-survey
