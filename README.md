@@ -68,6 +68,57 @@ LLM模型被设计来解决各种任务。LLM评测数据集，用于测试和�
 
 # 三、LLM评估
 
+在不同类型的任务上进行评测，包括Natural Language Processing Tasks、Robustness、Ethic、Bias、Trustworthiness、Social Science、Natural Science and Engineering、Medical Applications、Agent Applications和Other Applications。
+
+## 3.1 Natural Language Processing Tasks
+
+一开始LLM的目标就是去提升各种NLP任务的表现，包括理解式的和生成式的。因此，就有很多关于这些任务的评测研究。
+
+### 3.1.1 Nutural language understanding
+
+自然语言理解，也包含很多不同的任务，皆旨在对输入的文本能有一个更好的理解。
+
+Sentiment analysis
+
+情感分析可以看作分类任务，是一个很流行的评测方向。模型在这个任务上的表现通常都很好，ChatGPT的表现比传统的模型效果更好，趋近于GPT-3.5的结果。对于细粒度的情感和情绪的原因分析，ChatGPT也表现超凡。
+对于low-resource的情况，LLM也明显由于小型LM，但相对不是那么好，这应该是未来的一个研究方向。
+
+Text classification
+
+GPT-4有明显的提升，但和人的判断还是有距离。总之，LLM在语义理解的任务上表现是糟糕的。
+对于社交知识理解，有人发现一个经有监督的精调的小模型，比如BERT，效果会明显好于zero-shot的LLM，比如GPT、GPT-J-6B。
+
+
+### 3.1.2 Reasoning
+### 3.1.3 Natural language generation
+### 3.1.4 Multilingual tasks
+### 3.1.5 Factuality
+
+
+## 3.2 Robustness, Ethic, Bias, and Trustworthiness
+
+
+
+## 3.3 Social Science
+
+
+
+## 3.4 Natural Science and Engineering
+
+
+
+## 3.5 Medical Applications
+
+
+
+## 3.6 Agent Applications
+
+
+
+## 3.7 Other Applications
+
+
+
 # 四、比赛
 
 # 五、行业
