@@ -10,7 +10,7 @@
 
 ## Llama系列
 
-Meta公司，原名Facebook，分布的。2023-07-19，发布免费可商用的Llama2。
+Meta公司，原名Facebook，发布的。2023-07-19，发布免费可商用的Llama2。
 
 1. Llama2-70B
 2. Llama2-13B
