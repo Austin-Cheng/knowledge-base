@@ -1,5 +1,19 @@
 # LLM
 
+1. GPT-4
+2. GPT-3.5-turbo
+4. Claude-v1，Anthropic公司研制的
+5. Claude-instant-v1
+
+## Vicuna系列
+
+由多家研究机构合作推出的一个开源大语言模型，其研究团队来自于UC Berkeley、CMU、斯坦福、US San Dego和MBZUAI。该系列的模型是基于Meta LLaMA在SharedGPT开放数据集上微调得到。因此，模型本身受限于LLaMA的非商用限制以及OpenAI对ChatGPT共享数据集的限制。官方宣称该模型水平接近ChatGPT，并且超过其它开源的模型。
+
+Vicuna官网：https://lmsys.org/blog/2023-03-30-vicuna/
+Vicuna在线使用：https://chat.lmsys.org/?arena
+
+1. Vicuna-33B，2023年6月21日发布。
+2. Vicuna-13B
 
 
 # LLM评测数据集和基准
