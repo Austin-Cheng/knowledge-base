@@ -86,6 +86,9 @@ Sentiment analysis
 Text classification
 
 GPT-4有明显的提升，但和人的判断还是有距离。总之，LLM在语义理解的任务上表现是糟糕的。
+
+Social knowledge understanding
+
 对于社交知识理解，有人发现一个经有监督的精调的小模型，比如BERT，效果会明显好于zero-shot的LLM，比如GPT、GPT-J-6B。
 
 
