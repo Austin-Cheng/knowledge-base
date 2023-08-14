@@ -70,6 +70,10 @@ LLM模型被设计来解决各种任务。LLM评测数据集，用于测试和�
 
 在不同类型的任务上进行评测，包括Natural Language Processing Tasks、Robustness、Ethic、Bias、Trustworthiness、Social Science、Natural Science and Engineering、Medical Applications、Agent Applications和Other Applications。
 
+GLUE: https://gluebenchmark.com/leaderboard
+SuperGLUE: https://super.gluebenchmark.com/tasks
+
+
 ## 3.1 Natural Language Processing Tasks
 
 一开始LLM的目标就是去提升各种NLP任务的表现，包括理解式的和生成式的。因此，就有很多关于这些任务的评测研究。
