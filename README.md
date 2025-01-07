@@ -73,6 +73,9 @@ LLM模型被设计来解决各种任务。LLM评测数据集，用于测试和�
 GLUE: https://gluebenchmark.com/leaderboard
 SuperGLUE: https://super.gluebenchmark.com/tasks
 
+https://paperswithcode.com/area/computer-vision
+https://rank.opencompass.org.cn/home
+
 
 ## 3.1 Natural Language Processing Tasks
 
